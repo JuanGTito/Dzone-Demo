@@ -1,0 +1,5 @@
+-r requirements.txt
+sounddevice>=0.5,<1
+faster-whisper>=1.1,<2
+huggingface-hub>=0.26,<2
+pyinstaller>=6,<7

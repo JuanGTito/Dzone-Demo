@@ -1,0 +1,9 @@
+{
+  "llama.cpp": "b11838",
+  "llama_sha256": "45462c0f6b0e9f9b841e3d2bc2a086b29925a9691d866458bbbf90cf564ae2b7",
+  "qwen_repo": "Qwen/Qwen3-4B-GGUF",
+  "qwen_revision": "bc640142c66e1fdd12af0bd68f40445458f3869b",
+  "qwen_file": "Qwen3-4B-Q4_K_M.gguf",
+  "whisper_repo": "Systran/faster-whisper-tiny",
+  "whisper_revision": "d90ca5fe260221311c53c58e660288d3deb8d356"
+}
